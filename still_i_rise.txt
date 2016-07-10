@@ -3,5 +3,6 @@ Rising
 #verse 1
 
 #verse 2
+Super awesome new verse yo
 
 #verse 3
